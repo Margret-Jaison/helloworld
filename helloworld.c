@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-#include "HelloWorld.h"
+#include "helloworld.h"
 
 int main(int argc, char *argv[])
 {
-  printf("Hello World,Welcome to Yocto Project \n");
+  printf("Hello World(group3)\n");
   return 0;
 }
