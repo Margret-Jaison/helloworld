@@ -4,6 +4,6 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Hello Yocto Recipe World\n");
+  printf("Hello World,Welcome to Yocto Project \n");
   return 0;
 }
