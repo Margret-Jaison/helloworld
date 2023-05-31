@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(helloworldforyoctobuild, 1.0, ramkumar_nekkalapudi@yahoo.com)
+AC_INIT(helloworldforyoctobuild, 1.0, margretjaison.2609@gmail.com)
 AC_CONFIG_SRCDIR([HelloWorld.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(helloworldforyoctobuild, main)
@@ -26,5 +26,5 @@ AC_ENABLE_SHARED
 # Checks for library functions.
 
 #AC_CONFIG_MACRO_DIR([m4])
-AC_CONFIG_FILES([Makefile])
+AC_CONFIG_FILES([makefile])
 AC_OUTPUT
